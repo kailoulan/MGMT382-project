@@ -1,1 +1,0 @@
-# MGMT382-project
