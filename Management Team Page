@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html>
+<head>  
+  <meta charset="UTF-8"> 
+  <title>Management Team | Tekton</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      background-color: white;
+      color: black;
+    }
+    h1 {
+      font-family: 'Georgia', serif;
+      font-size: 28px;
+      color: black;
+    }
+    h2 {
+      font-family: 'Verdana', sans-serif;
+      font-size: 22px;
+      color: orange;
+    }
+    .highlight {
+      font-size: 18px;
+      font-style: italic;
+      color: orange;
+    }
+    .bio {
+      font-size: 16px;
+      color: black;
+    }
+    .logo {
+      width: 250px;
+      margin-bottom: 10px;
+    }
+  </style>
+</head>
+<body>
+
+<img src="https://assets.onecompiler.app/43msdrzmd/43msdhkhy/IMG_0549.jpeg" alt="Tekton Logo" class="logo">
+
+<h1><u><b>Meet the Tekton Management Team</b></u></h1>
+
+<div style="text-align: center;">
+  <img src="https://assets.onecompiler.app/43msdrzmd/43msdhkhy/IMG_7373.jpg" alt="Photo of CEO" width="250"><br>
+  <span style="font-weight: bold; font-size: 18px;">Founder</span><br>
+  <span style="font-size: 16px; font-style: italic;">Tayseer Wahbeh</span>
+</div>
+<p class="bio"><b>Tekton</b> is led by a diverse and talented executive team focused on innovation and excellence in the construction industry. From strategy to operations, our leadership is <i>committed</i> to delivering high-quality solutions for modern building challenges.</p>
+
+<h2>Our Executive Leaders</h2>
+<ul>
+  <li><b>Luke Geiger</b> – <span class="highlight">Chief Executive Officer</span><br>Luke has 25 years of experience in structural engineering and oversees all strategic direction.</li>
+  <li><b>Charlie Kauffman</b> – <span class="highlight">Chief Operating Officer</span><br>Charlie ensures efficient daily operations, manages logistics, and leads the workforce development program.</li>
+  <li><b>Kai Lannon</b> – <span class="highlight">Chief Financial Officer</span><br>Kai brings deep financial acumen to manage capital, investments, and risk strategy.</li>
+  <li><b>Andrew Sobczak</b> – <span class="highlight">Chief Technology Officer</span><br>Andrew leads R&D and is the brain behind our SmartBuild AI platform.</li>
+</ul>
+
+<h2>Major Team Milestones</h2>
+<ol>
+  <li>Expanded operations to three new international markets in under two years.</li>
+  <li>Achieved 40% year-over-year growth in project volume.</li>
+  <li>Implemented Tekton’s cloud-based tracking system company-wide.</li>
+</ol>
+
+<p>For insights into strong leadership in construction, check out this <a href="https://www.criterionhcm.com/blog/leadership-styles-in-the-construction-industry" target="_blank">article on construction leadership</a>.</p>
+
+<p><a href="mailto:twahbeh@purdue.edu">Contact Me</a></p>
+
+<p><a href="Tekton_Bios.pdf" download>Download Our Full Executive Bios (PDF)</a></p>
+
+<p><i><b>Last Modified:</b></i> <script>document.write(document.lastModified);</script></p>
+
+</body>
+</html>
