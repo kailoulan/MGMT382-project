@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <meta charset="UTF-8">
   <title>Tekton: Customer Testimonials</title>
 </head>
 <body>
@@ -15,7 +14,7 @@
 
 <div style="display: flex;">
   <div style="flex: 1; padding: 10px;">
- <h2 style="color:#Ffa500";>5 reasons why customers love Tekton</h2>
+ <h2 style="color:#Ffa500">5 reasons why customers love Tekton</h2>
   <ol>
     <li>#1 rated customer service in the state</li>
     <li>Near immediate project start time</li>
@@ -25,7 +24,7 @@
   </ol>
 </div>
 <div style="flex: 1; padding: 10px;">
- <h2 style="color:#Ffa500";>Client Reviews</h2>
+ <h2 style="color:#Ffa500">Client Reviews</h2>
   <ul>
     <li><i>"Tekton helped build us our <u>dream home</u> and they did it cheap!"</i></li>
     <li><i>"You can tell Tekton really cares about their customers,they provide <u>quality service</u> and listen to all our concerns"</i></li>
@@ -41,5 +40,6 @@
       "Last Modified: " + document.lastModified;
   </script>
 
+</body>
 <body style="background-color: lightgrey;">
 </html>
