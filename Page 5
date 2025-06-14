@@ -35,6 +35,8 @@
 </div>
 </div>
 
+ <p id="date"></p>
+
   <script>
     document.getElementById("date").innerHTML =
       "Last Modified: " + document.lastModified;
