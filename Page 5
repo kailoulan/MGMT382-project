@@ -1,12 +1,12 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
   <meta charset="UTF-8">
   <title>Tekton: Customer Testimonials</title>
 </head>
 <body>
 
-<img src="" width="150" height="150" style="display: block; margin: 0 auto;">
+<img src="tekton.png" width="150" height="150" style="display: block; margin: 0 auto;">
 
 <center> <h1> Customer Testimonials </h1> </center> 
 
