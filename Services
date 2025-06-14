@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Your Company Services</title>
+    <style>
+        body {
+            background-color: #f0f0f0;
+            color: black;
+        }
+        h1, h2, h3 {
+            color: orange;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Our Company's Services</h1>
+    <hr>
+
+    <!-- Example image -->
+    <img src="https://via.placeholder.com/600x300.png?text=Your+Company+Image" alt="Company Services Image" style="width:100%;max-width:600px;">
+    
+    <h2>Service Number One: Concrete</h2>
+    <p style="font-family: Georgia; font-size: 16px;">
+        <b>Concrete Service:</b> We offer the best concrete service in town. Our customers come first. We offer a 100% satisfaction guarantee or your money back. We conduct inspections a month after the concrete is poured to ensure our sealant works and to fix any issues.
+    </p>
+
+    <h2>Service Number Two: Drywall</h2>
+    <p style="font-family: Verdana; font-size: 12px;">
+        <u>Drywall:</u> We have recently expanded our business into the drywall industry. Just like concrete, we offer 100% customer satisfaction or your money back. We provide same-day installation for small jobs, and week-long installation for larger projects.
+        <i>Includes regular drywall for general use.</i>
+    </p>
+
+    <hr>
+
+    <h3>Features of Our Services (Numbered List):</h3>
+    <ol>
+        <li>100% money-back guarantee</li>
+        <li>Customer comes first</li>
+        <li>Clean work sites</li>
+    </ol>
+
+    <hr>
+
+    <h3>Downloads</h3>
+    <p>
+        <a href="file:///Users/charliekauffman/Downloads/Brochure.pdf" download>Download Our Full Service Brochure</a>
+    </p>
+
+    <h3>Find Out More</h3>
+    <p>
+        For more information on our industry, visit this 
+        <a href="https://www.riversideconstruction.com/" target="_blank">riversideconstruction</a>.
+    </p>
+    <p>
+        If you have any questions, please <a href="fakemail@gmail.com">contact us</a>.
+    </p>
+
+    <hr>
+
+    <footer>
+        <p>
+            <script>
+                document.write("Page Last Modified: " + document.lastModified);
+            </script>
+        </p>
+    </footer>
+
+</body>
+</html>
