@@ -36,18 +36,6 @@
 </div>
 </div>
 
-  <p>Learn more about trusted construction partners like 
-    <a href="https://www.riversideconstruction.com/" target="_blank">Riverside Construction</a>.
-  </p>
-
-  <p>Check out our methods for committing to sustainability with our building practices:
-    <a href="https://ukgbc.org/wp-content/uploads/2024/07/Sustainable-Construction.pdf" target="_blank">Sustainable Construction PDF</a>
-  </p>
-
-<p><a href="geiger32@purdue.edu">Contact Me</a></p>
-
-  <p id="date"></p>
-
   <script>
     document.getElementById("date").innerHTML =
       "Last Modified: " + document.lastModified;
