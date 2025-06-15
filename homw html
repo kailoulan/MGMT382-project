@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Team Home</title>
+</head>
+<body style="font-family: Verdana; text-align: center;">
+    <h1>🏢 Welcome to [Your Company Name]</h1>
+    <h2>Team [Your Team Number]</h2>
+    <p>Team Members:</p>
+    <ul style="list-style-type: none;">
+        <li>Alice</li>
+        <li>Bob</li>
+        <li>Charlie</li>
+        <li>Diana</li>
+        <li>Edward</li>
+    </ul>
+    <p><small>Last Modified: <script>document.write(document.lastModified);</script></small></p>
+</body>
+</html>
