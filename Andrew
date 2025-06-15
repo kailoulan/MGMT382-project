@@ -1,0 +1,40 @@
+<h1 style="color: #b04d2f;">Welcome to <span class="headline">Tekton</span></h1>
+
+<p><span class="headline">Tekton</span> offers premium <u>products</u> and <i>services</i> related to modern building construction. We are committed to delivering high-quality solutions with unmatched reliability.</p>
+
+<p class="subtext">From blueprints to the final brick, Tekton builds the future.</p>
+
+<img src="images/construction-site.jpg" alt="Construction in progress" width="450">
+
+<h2>What We Offer</h2>
+<ol>
+    <li>Commercial & Residential Construction</li>
+    <li>Architectural Design Services</li>
+    <li>Green Building Consultation</li>
+</ol>
+
+<h3>Our Construction Materials</h3>
+<ul>
+    <li>Concrete & Steel Frames</li>
+    <li>Eco-friendly Insulation</li>
+    <li>Modular Wall Panels</li>
+</ul>
+
+<p>
+    Read more about modern building techniques on 
+    <a href="https://www.archdaily.com/" target="_blank" rel="noopener noreferrer">ArchDaily</a>, or 
+    check out our <a href="services.html">Services Page</a>.
+</p>
+
+<p>
+    <a href="mailto:info@tektonbuilds.com">Contact Me</a>
+</p>
+
+<p>
+    <a href="downloads/Tekton_Catalog.pdf" download>Download Our Product Catalog (PDF)</a>
+</p>
+
+<footer>
+    <hr>
+    <p>Last Modified: <script>document.write(new Date(document.lastModified).toLocaleString());</script></p>
+</footer>
