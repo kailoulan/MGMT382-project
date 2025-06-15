@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Our Company Website</title>
+</head>
+<frameset cols="25%, 75%">
+    <frame src="nav.html" name="leftFrame">
+    <frame src="home.html" name="rightFrame">
+</frameset>
+<noframes>
+    <body>Your browser doesn't support frames.</body>
+</noframes>
+</html>
